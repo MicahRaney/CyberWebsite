@@ -1,3 +1,7 @@
+# PROJECT MOVED
+
+The project has been moved to [https://github.com/UCI-CCDC/uci-ccdc.github.io](https://github.com/UCI-CCDC/uci-ccdc.github.io)! All future development will take place there to facilitate the club's leadership transition. Information in this repository is NOT up to date!
+
 # Cyber @ UCI Website
 
 This is a website for Cyber @ UCI -- a student organization at the University
